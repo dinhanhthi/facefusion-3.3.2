@@ -1,6 +1,10 @@
 FaceFusion
 ==========
 
+=> Use another repo [v3.4.1](https://github.com/dinhanhthi/facefusion-3.4.1)
+
+---
+
 > Industry leading face manipulation platform.
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/facefusion/facefusion/ci.yml.svg?branch=master)](https://github.com/facefusion/facefusion/actions?query=workflow:ci)
