@@ -1,7 +1,7 @@
 FaceFusion
 ==========
 
-=> Use another repo [v3.4.1](https://github.com/dinhanhthi/facefusion-3.4.1)
+**FOR THI**: Use another repo [v3.4.1](https://github.com/dinhanhthi/facefusion-3.4.1)
 
 ---
 
